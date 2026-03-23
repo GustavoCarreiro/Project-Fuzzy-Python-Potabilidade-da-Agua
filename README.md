@@ -24,6 +24,7 @@ O sistema utiliza conceitos clássicos de sistemas fuzzy:
 O projeto utiliza o dataset de potabilidade da água disponível no Kaggle:
 🔗 https://www.kaggle.com/datasets/adityakadiwal/water-potability
 
+
 ## ⚙️ Funcionamento do Sistema:
 
 **1. Fuzzificação**
