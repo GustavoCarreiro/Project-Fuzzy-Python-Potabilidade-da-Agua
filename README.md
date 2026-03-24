@@ -13,15 +13,21 @@ O sistema utiliza conceitos clássicos de sistemas fuzzy:
 - Inferência Fuzzy
 - Defuzzificação
 
+---
+
 ## 🧠 Tecnologias Utilizadas:
 - Python
 - Pandas
 - NumPy
 - Scikit-Fuzzy
+
+---
   
 ## 📊 Dataset.
 O projeto utiliza o dataset de potabilidade da água disponível no Kaggle:
 🔗 https://www.kaggle.com/datasets/adityakadiwal/water-potability.
+
+---
 
 ## ⚙️ Funcionamento do Sistema:
 
@@ -47,9 +53,21 @@ As regras são aplicadas simultaneamente para gerar uma saída fuzzy.
 **3. Defuzzificação**
 Converte o resultado fuzzy em um valor numérico que representa o nível de potabilidade.
 
+---
+
 ## 🎯 Objetivo Acadêmico
 Este projeto demonstra como técnicas de Inteligência Artificial podem ser aplicadas em problemas reais, como o monitoramento da qualidade da água, contribuindo para:
 
 - Saúde pública
 - Sustentabilidade
 - Tomada de decisão baseada em dados
+
+---
+
+## 👨‍💻 Autores:
+
+- Enzo Pagnozzi Cesar
+- Gustavo Carreiro
+- João Otávio de Souza
+- João Vitor Marques de Almeida
+- Leonardo Ribeiro Leonardi
