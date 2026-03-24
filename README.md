@@ -1,10 +1,9 @@
-## 💧 Sistema Fuzzy para Análise de Potabilidade da Água.
+# 💧 Sistema Fuzzy para Análise de Potabilidade da Água.
 
 ## 📌 Sobre o Projeto:
 Este projeto foi desenvolvido como parte da disciplina de Inteligência Artificial (Projeto A3) e tem como objetivo aplicar Lógica Fuzzy para determinar a potabilidade da água com base em variáveis físico-químicas.
 
 A solução classifica a água em três categorias:
-
 - 🚫 Não potável
 - ⚠️ Semi potável
 - ✅ Potável
@@ -27,7 +26,6 @@ O projeto utiliza o dataset de potabilidade da água disponível no Kaggle:
 ## ⚙️ Funcionamento do Sistema:
 
 **1. Fuzzificação**
-
 Transforma valores numéricos em variáveis linguísticas.
 
 **Variáveis de Entrada:**
@@ -41,19 +39,15 @@ Transforma valores numéricos em variáveis linguísticas.
 - **Potabilidade** → não potável, semi potável, potável
   
 **2. Inferência Fuzzy**
-
 Define regras do tipo:
 
 "Se pH é ácido e turbidez é alta, então água é não potável"
-
 As regras são aplicadas simultaneamente para gerar uma saída fuzzy.
 
 **3. Defuzzificação**
-
 Converte o resultado fuzzy em um valor numérico que representa o nível de potabilidade.
 
 ## 🎯 Objetivo Acadêmico
-
 Este projeto demonstra como técnicas de Inteligência Artificial podem ser aplicadas em problemas reais, como o monitoramento da qualidade da água, contribuindo para:
 
 - Saúde pública
