@@ -8,15 +8,15 @@
 
 A solução classifica a água em três categorias:
 
-- 🚫 Não potável
-- ⚠️ Semi potável
-- ✅ Potável
+- **🚫 Não potável**
+- **⚠️ Semi potável**
+- **✅ Potável**
 
 O sistema utiliza conceitos clássicos de sistemas fuzzy:
 
-- Fuzzificação
-- Inferência Fuzzy
-- Defuzzificação
+- **Fuzzificação**
+- **Inferência Fuzzy**
+- **Defuzzificação**
 
 ---
 
@@ -30,7 +30,8 @@ O sistema utiliza conceitos clássicos de sistemas fuzzy:
 ---
   
 ## 📊 Dataset.
-O projeto utiliza o dataset de potabilidade da água disponível no Kaggle:
+
+> O projeto utiliza o dataset de potabilidade da água disponível no Kaggle:
 🔗 https://www.kaggle.com/datasets/adityakadiwal/water-potability.
 
 ---
