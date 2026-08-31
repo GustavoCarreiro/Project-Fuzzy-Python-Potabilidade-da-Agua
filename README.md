@@ -21,10 +21,11 @@ O sistema utiliza conceitos clássicos de sistemas fuzzy:
 ---
 
 ## 🧠 Tecnologias Utilizadas:
-- Python
-- Pandas
-- NumPy
-- Scikit-Fuzzy
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Scikit-Fuzzy**
 
 ---
   
