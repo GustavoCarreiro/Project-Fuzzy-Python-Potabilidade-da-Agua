@@ -72,8 +72,8 @@ O projeto utiliza o dataset de potabilidade da água disponível no Kaggle:
 
 ## 👨‍💻 Autores:
 
-- Enzo Pagnozzi Cesar
-- Gustavo Carreiro
-- João Otávio de Souza
-- João Vitor Marques de Almeida
-- Leonardo Ribeiro Leonardi
+- **Enzo Pagnozzi Cesar**
+- **Gustavo Carreiro**
+- **João Otávio de Souza**
+- **João Vitor Marques de Almeida**
+- **Leonardo Ribeiro Leonardi**
