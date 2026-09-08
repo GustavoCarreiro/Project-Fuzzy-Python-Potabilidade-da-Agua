@@ -14,9 +14,9 @@ A solução classifica a água em três categorias:
 
 O sistema utiliza conceitos clássicos de sistemas fuzzy:
 
-- **Fuzzificação**
-- **Inferência Fuzzy**
-- **Defuzzificação**
+- [x] **Fuzzificação**
+- [x] **Inferência Fuzzy**
+- [x] **Defuzzificação**
 
 ---
 
