@@ -8,9 +8,9 @@
 
 A solução classifica a água em três categorias:
 
-- [x]**🚫 Não potável**
-- [x]**⚠️ Semi potável**
-- [x]**✅ Potável**
+- [x] **🚫 Não potável**
+- [x] **⚠️ Semi potável**
+- [x] **✅ Potável**
 
 O sistema utiliza conceitos clássicos de sistemas fuzzy:
 
@@ -22,10 +22,10 @@ O sistema utiliza conceitos clássicos de sistemas fuzzy:
 
 ## 🧠 Tecnologias Utilizadas:
 
-- [x]**Python**
-- [x]**Pandas**
-- [x]**NumPy**
-- [x]**Scikit-Fuzzy**
+- [x] **Python**
+- [x] **Pandas**
+- [x] **NumPy**
+- [x] **Scikit-Fuzzy**
 
 ---
   
